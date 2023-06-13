@@ -3,7 +3,7 @@
 
 - 👋 Olá, eu sou o **@N7ckZ**, estudante da disciplina **pensamento computacional**
 - 👀 Estou interessado em aprender sobre programação
-- 🌱 Atualmente estou iniciando na programação
+- 🌱 Atualmente estou iniciando na programação com **Python**
 - 🧑‍🦽Estudante do 1 ano do ensino médio
 
 
