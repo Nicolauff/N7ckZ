@@ -1,10 +1,10 @@
 # Quem sou eu
 
 
-- 👋 Olá, eu sou o **@N7ckZ**, estudante da disciplina **pensamento computacional**
+- 👋 Olá, eu sou o **@Nicolauff**, estudante da disciplina **Programação**
 - 👀 Estou interessado em aprender sobre programação
 - 🌱 Atualmente estou iniciando na programação com **Python**
-- 🧑‍🦽Estudante do 1 ano do ensino médio
+- 🧑‍🦽Estudante do 3 ano do ensino médio
 
 
 <!---
